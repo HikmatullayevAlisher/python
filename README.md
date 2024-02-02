@@ -1,2 +1,3 @@
-# python
-python
+# dasturlash 
+dasturlash
+
